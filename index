@@ -1,0 +1,19 @@
+<html>
+
+<head>
+
+</head>
+<body>
+<?php
+date_default_timezone_set('Asia/Taipei');
+echo "<h1>Hello Welcome To PHP !</h1>";
+echo "<br/>";
+echo "<b>This is 網頁程式設計 Week1 Homework</b>";
+echo "<br/>";
+echo "<br/>";
+echo "<b>臺灣時間 </b>";
+echo date("Y / m / d l H:i:s");
+?>
+</body>
+
+</html>
